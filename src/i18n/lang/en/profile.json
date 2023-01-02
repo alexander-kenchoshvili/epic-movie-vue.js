@@ -1,0 +1,37 @@
+{ 
+    "my_profile":"My profile",
+    "upload_photo":"Upload new Photo",
+    "username":"Username",
+    "enter_new_username":"Enter new username",
+    "are_you_sure":"Are you sure to make changes ?",
+    "change_primary_email":"Change primary email",
+    "edit":"Edit",
+    "email":"Email",
+    "primary_email":"Primary Email",
+    "add_new_email":"Add new email",
+    "password":"Password",
+    "confirm_password":"Confirm new password",
+    "not_verified":"Not verified",
+    "remove":"Remove",
+    "make_primary":"Make this primary",
+    "new_email":"New Email",
+    "enter_new_email":"Enter new email",
+    "cancell":"Cancell",
+    "confirm":"Confrim",
+    "success_popup":"Changes updated succsessfully",
+    "add":"Add",
+    "new_email_success":"New email added succsessfully",
+    "please_check_email":"Please check email to verify new address",
+    "password_warn":"Passwords should contain:",
+    "password_character_number":"or more characters",
+    "lowercase_character":"lowercase character",
+    "verify_message":"Please verify new email address",
+    "new_password":"New password",
+    "save_changes":"Save changes"
+    
+
+    
+   
+
+
+}

@@ -1,0 +1,36 @@
+{ 
+    "my_profile":"ჩემი პროფილი",
+    "upload_photo":"ატვირთე ახალი სურათი",
+    "username":"მომხმარებლის სახელი",
+    "enter_new_username":"შეიყვანე ახალი სახელი",
+    "are_you_sure":"ნამდვილად გსურთ ცვლილება?",
+    "edit":"რედაქტირება",
+    "email":"იმეილი",
+    "primary_email":"ძირითადი იმეილი",
+    "change_primary_email":"შეცვალე ძირითადი იმეილი",
+    "add_new_email":"დაამატე ახალი იმეილი",
+    "password":"პაროლი",
+    "confirm_password":"დაადასტურე პაროლი",
+    "not_verified":"არავერიფიცირებული",
+    "remove":"წაშლა",
+    "make_primary":"გახადე ძირითადი",
+    "new_email":"ახალი იმეილი",
+    "enter_new_email":"ჩაწერე ახალი იმეილი",
+    "cancell":"გამოსვლა",
+    "add":"დამატება",
+    "confirm":"დადასტურება",
+    "success_popup":"ცვლილებები განახლდა წარმატებით",
+    "new_email_success":"ახალი იმეილი დაემატა წარმატებით",
+    "please_check_email":"გთხოვთ შეამოწმეთ იმეილი ვერიფიკაციისთვის",
+    "password_warn":"პაროლი უნდა შეიცავდეს:",
+    "password_character_number":"ან მეტ სიმბოლოს",
+    "lowercase_character":"დაბალი რეგისტრის სიმბოლოს",
+    "verify_message":"გახადე იმეილი ვერიფიცირებული",
+    "new_password":"ახალი პაროლი",
+    "save_changes":"ცვლილებების შენახვა"
+
+
+
+
+
+}

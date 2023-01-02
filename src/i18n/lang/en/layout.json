@@ -1,0 +1,16 @@
+{ "find_movie":"for search movies enter",
+  "find_quote":"for search quotes enter",
+  "search":"Search",
+  "edit_profile":"Edit your profile",
+  "news_feed":"News feed",
+  "movie_list": "list of movies",
+  "write_quote":"Write new quote",
+  "my_movies":"My list of movies",
+  "total":"total",
+  "add_movie":"Add movie",
+  "movie_description":"Movie description",
+  "quotes":"Quotes",
+  "add_quote":"Add quote",
+  "director":"Director",
+  "write_comment":"Write a comment"  
+}
